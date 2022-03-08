@@ -1,3 +1,3 @@
-# GitHub-My_page
+# GitHub-Haesung_page
 
 Hello World!
